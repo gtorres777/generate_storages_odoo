@@ -1,0 +1,1 @@
+# generate_storages_odoo
